@@ -33,8 +33,6 @@ Will output a minified `app.js` file in `public/js`
 At Windows 10 Ubuntu bash: Will start browser-sync environment and watchify.
 
 
-#### PHPStorm Watcher
-
 Ruby and Sass needed. If not already installed, then:
 
     https://rubyinstaller.org/
@@ -44,6 +42,8 @@ Follow installation instructions for ruby and at windows console run:
     gem install sass
 
 
+
+#### PHPStorm Watcher
 
 Watcher for SCSS:
 File > Settings > File Watchers
