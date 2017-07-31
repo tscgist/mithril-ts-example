@@ -1,6 +1,6 @@
 # Mithril / Typescript Example Project
 
-This is an example project using [Mithril](https://mithril.js.org/) and TypeScript.
+This is an extended example project using [Mithril](https://mithril.js.org/), TypeScript, Browser-Sync and Bootstrap SASS.
 
 ## Installation:
 
