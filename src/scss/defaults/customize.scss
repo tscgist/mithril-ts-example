@@ -1,0 +1,26 @@
+
+.navbar-nav {
+
+  flex-direction: row;
+
+  .nav-link {
+
+    color: $gray-lighter;
+    padding: 0 0.5rem;
+
+    &:hover{
+      color: $gray-lighter;
+    }
+
+    &:visited{
+      color: $gray-lighter;
+    }
+
+  }
+}
+
+.navbar {
+  a.navbar-brand{
+    color: $gray-lighter;
+  }
+}

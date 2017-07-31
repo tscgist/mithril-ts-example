@@ -34,7 +34,7 @@ module.exports = {
 	"index": "index.html",
 	"directory": true,
 	"server": {
-		"baseDir": "/mnt/c/workspaces/ts/geo/mithril-ts-example"
+		"baseDir": "/mnt/c/workspaces/ts/geo/mithril-ts-example-extended"
 	},
 	"proxy": false,
 	"port": 3000,
