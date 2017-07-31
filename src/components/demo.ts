@@ -166,7 +166,7 @@ export default {
                             m(".col-md-6.col-lg-4",
                                 m(".card",
                                     [
-                                        m("img.card-img-top.img-fluid[alt='Card image cap'][src='img/angie.png']"),
+                                        m("img.card-img-top.img-fluid[alt='Card image cap'][src='//via.placeholder.com/350x150']"),
                                         m(".card-block",
                                             [
                                                 m("h4.card-title",
@@ -183,7 +183,7 @@ export default {
                             m(".col-md-6.col-lg-4",
                                 m(".card",
                                     [
-                                        m("img.card-img-top.img-fluid[alt='Card image cap'][src='img/nodestradamus.png']"),
+                                        m("img.card-img-top.img-fluid[alt='Card image cap'][src='//via.placeholder.com/350x150']"),
                                         m(".card-block",
                                             [
                                                 m("h4.card-title",
@@ -200,7 +200,7 @@ export default {
                             m(".col-md-6.col-lg-4",
                                 m(".card",
                                     [
-                                        m("img.card-img-top.img-fluid[alt='Card image cap'][src='img/geo.png']"),
+                                        m("img.card-img-top.img-fluid[alt='Card image cap'][src='//via.placeholder.com/350x150']"),
                                         m(".card-block",
                                             [
                                                 m("h4.card-title",
@@ -217,7 +217,7 @@ export default {
                             m(".col-md-6.col-lg-4",
                                 m(".card",
                                     [
-                                        m("img.card-img-top.img-fluid[alt='Card image cap'][src='img/ecma.png']"),
+                                        m("img.card-img-top.img-fluid[alt='Card image cap'][src='//via.placeholder.com/350x150']"),
                                         m(".card-block",
                                             [
                                                 m("h4.card-title",
@@ -234,7 +234,7 @@ export default {
                             m(".col-md-6.col-lg-4",
                                 m(".card",
                                     [
-                                        m("img.card-img-top.img-fluid[alt='Card image cap'][src='img/jay.png']"),
+                                        m("img.card-img-top.img-fluid[alt='Card image cap'][src='//via.placeholder.com/350x150']"),
                                         m(".card-block",
                                             [
                                                 m("h4.card-title",
@@ -255,7 +255,7 @@ export default {
                             m(".col-md-6.col-lg-4",
                                 m(".card",
                                     [
-                                        m("img.card-img-top.img-fluid[alt='Card image cap'][src='img/json.png']"),
+                                        m("img.card-img-top.img-fluid[alt='Card image cap'][src='//via.placeholder.com/350x150']"),
                                         m(".card-block",
                                             [
                                                 m("h4.card-title",
