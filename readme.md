@@ -35,6 +35,16 @@ At Windows 10 Ubuntu bash: Will start browser-sync environment and watchify.
 
 #### PHPStorm Watcher
 
+Ruby and Sass needed. If not already installed, then:
+
+    https://rubyinstaller.org/
+
+Follow installation instructions for ruby and at windows console run:
+
+    gem install sass
+
+
+
 Watcher for SCSS:
 File > Settings > File Watchers
 Create SCSS watcher with following options:
@@ -45,7 +55,7 @@ Pattern:
 
 Program:
 
-    C:\Ruby22-x64\bin\scss.bat
+    [drive]:\[path-to-your-ruby-and-sass-directory]\bin\scss.bat
 
 Arguments:
 
