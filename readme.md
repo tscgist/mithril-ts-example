@@ -56,3 +56,7 @@ Other options:
 
     $FileDir$
 
+
+### developing command
+
+    npm run dev
