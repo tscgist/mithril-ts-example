@@ -21,3 +21,38 @@ While this npm script is running, edits made to src/*.ts files will be recompile
     npm run build
 
 Will output a minified `app.js` file in `public/js`
+
+
+
+## Develop
+
+    npm run dev
+
+### Windows 10
+
+At Windows 10 Ubuntu bash: Will start browser-sync environment and watchify.
+
+Watcher for SCSS:
+File > Settings > File Watchers
+Create SCSS watcher with following options:
+
+Scope:
+Pattern:
+    file:mithril-ts-example/src/scss/style.scss
+
+Program:
+
+    C:\Ruby22-x64\bin\scss.bat
+
+Arguments:
+
+    --no-cache --update $FileName$:../../public/css/$FileNameWithoutExtension$.css
+
+Output path to refresh:
+
+    ../../public/css/$FileNameWithoutExtension$.css:../../public/css/$FileNameWithoutExtension$.css.map
+
+Other options:
+
+    $FileDir$
+
