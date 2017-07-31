@@ -41,7 +41,7 @@ Create SCSS watcher with following options:
 
 Scope:
 Pattern:
-    file:mithril-ts-example/src/scss/style.scss
+    file:mithril-ts-example-extended/src/scss/style.scss
 
 Program:
 
