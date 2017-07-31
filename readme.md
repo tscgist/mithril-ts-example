@@ -46,11 +46,14 @@ Follow installation instructions for ruby and at windows console run:
 #### PHPStorm Watcher
 
 Watcher for SCSS:
-File > Settings > File Watchers
+
+    File > Settings > File Watchers
+
 Create SCSS watcher with following options:
 
-Scope:
-Pattern:
+
+Scope: > Pattern:
+
     file:mithril-ts-example-extended/src/scss/style.scss
 
 Program:
