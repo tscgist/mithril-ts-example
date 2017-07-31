@@ -32,6 +32,9 @@ Will output a minified `app.js` file in `public/js`
 
 At Windows 10 Ubuntu bash: Will start browser-sync environment and watchify.
 
+
+#### PHPStorm Watcher
+
 Watcher for SCSS:
 File > Settings > File Watchers
 Create SCSS watcher with following options:
