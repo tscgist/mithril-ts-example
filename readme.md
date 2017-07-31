@@ -76,3 +76,15 @@ Other options:
 ### developing command
 
     npm run dev
+
+
+
+### testing with mocha, chai and sinon using typescript spec files
+
+    npm run test
+
+or all at once
+
+    npm run dev-test
+
+
